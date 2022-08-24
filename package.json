@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ja54312/Fundamentos_TypeScript/issues"
   },
-  "homepage": "https://github.com/ja54312/Fundamentos_TypeScript#readme"
+  "homepage": "https://github.com/ja54312/Fundamentos_TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
